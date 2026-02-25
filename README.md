@@ -12,6 +12,8 @@ Actuellement en reconversion vers le développement web et en formation Concepti
 
 ## 🚀 Projets
 Vous trouverez sur mon profil différents projets réalisés durant ma formation :
+- O'Chat
+- Pokedex
 
 
 ## 📚 En apprentissage constant
