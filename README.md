@@ -13,6 +13,9 @@
 </p>
 
 <p align="center">
+  <a href="https://celik-samed.github.io/portfolio-samed/">
+    <img src="https://img.shields.io/badge/Voir%20mon%20portfolio-6D5DFB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le portfolio de Samed Celik" />
+  </a>
   <a href="mailto:celik.samed@hotmail.com">
     <img src="https://img.shields.io/badge/Me%20contacter-0891B2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Me contacter par e-mail" />
   </a>
