@@ -2,14 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=CELIK-Samed&label=Visites%20du%20profil&color=0891b2&style=flat-square" alt="Nombre de visites du profil" />
 </p>
 
-<h1 align="center">Bonjour, moi c'est Samed 👋</h1>
+<h1 align="center">Samed CELIK</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=720&lines=D%C3%A9veloppeur+full-stack+junior;Front-end+%C2%B7+Back-end+%C2%B7+Base+de+donn%C3%A9es;%C3%80+la+recherche+de+ma+premi%C3%A8re+opportunit%C3%A9" alt="Développeur full-stack junior à la recherche de sa première opportunité" />
+  <strong>Développeur Web Full-Stack</strong>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=720&lines=D%C3%A9veloppeur+Web+Full-Stack;Front-end+%C2%B7+Back-end+%C2%B7+Base+de+donn%C3%A9es;%C3%80+la+recherche+d%27un+CDI" alt="Développeur Web Full-Stack à la recherche d'un CDI" />
 </p>
 
 <p align="center">
-  📍 Villefontaine, France &nbsp;·&nbsp; 🎓 Formation Concepteur Développeur d'Applications terminée &nbsp;·&nbsp; 💼 Disponible
+  📍 Villefontaine, France &nbsp;·&nbsp; 🎓 Formation Concepteur Développeur d'Applications terminée &nbsp;·&nbsp; 💼 À la recherche d'un CDI
 </p>
 
 <p align="center">
@@ -28,15 +31,9 @@
 
 ## À propos de moi
 
-Après une première expérience professionnelle comme technicien chauffagiste,
-j'ai choisi de me reconvertir dans le développement. Ma formation de
-**Concepteur Développeur d'Applications** m'a permis de découvrir l'ensemble du
-cycle de création d'une application : interface, logique serveur, base de
-données, tests et travail en équipe.
+Développeur Web Full-Stack ayant suivi la formation **Concepteur Développeur d'Applications** chez O'Clock *(formation terminée, certification en attente)*. Mon stage de fin d'études et mon projet **SkillFusion** m'ont permis de participer au développement d'applications web modernes, aussi bien sur le front-end que le back-end, dans un environnement collaboratif.
 
-Je recherche aujourd'hui une première opportunité comme **développeur
-full-stack junior** pour consolider mes acquis, continuer à apprendre auprès
-d'une équipe et contribuer progressivement à des projets concrets.
+Je recherche aujourd'hui une première opportunité en **CDI** afin de rejoindre une équipe de développement, continuer à monter en compétences et contribuer à des projets concrets.
 
 ---
 
@@ -97,10 +94,9 @@ d'une équipe et contribuer progressivement à des projets concrets.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📰 O'News</h3>
-      <p align="center"><b>Intégration d'une interface éditoriale</b></p>
+      <p align="center"><b>Intégration HTML/CSS</b></p>
       <p>
-        Projet d'intégration consacré à la structure HTML et à la mise en forme
-        CSS d'une interface de consultation d'actualités.
+Développement d’une interface responsive en HTML et CSS à partir d’une maquette, avec une attention portée à la structure, à la mise en page et à l’expérience utilisateur.
       </p>
       <p align="center">
         <code>HTML</code> <code>CSS</code>
